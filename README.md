@@ -1,6 +1,7 @@
 # webpack-all
 
 > A Vue.js project
+> add login and register page
 
 ## Build Setup
 
