@@ -1,6 +1,6 @@
 # webpack-all
 
-> A Vue.js project
+> Vue Webpack Seed 180726
 
 ## Build Setup
 
